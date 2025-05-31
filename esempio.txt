@@ -1,0 +1,2 @@
+Ciao sono un file scritto da Python
+ quesra è una vuoa riga
